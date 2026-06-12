@@ -11,3 +11,14 @@
 
 # Average parameter comparison
 <img width="1071" height="760" alt="image" src="https://github.com/user-attachments/assets/0fe1c668-74ea-4153-b87d-7d192da2c390" />
+
+
+
+
+
+
+
+# Output
+
+
+<img width="1533" height="206" alt="image" src="https://github.com/user-attachments/assets/8f956bb7-7e33-49c8-9415-be22fb12694d" />
